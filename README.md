@@ -1,4 +1,4 @@
 ## hi dude ૮₍ ˶ᵔ ᵕ ᵔ˶ ₎ა
 <div align="center">
-  <img src="[https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif](https://media.giphy.com/media/wwg1suUiTbCY8H8vIA/giphy.gif?cid=ecf05e47y22e7gnnzs8ih7daiucj6e0posqxbikvmi1ckem4&ep=v1_gifs_search&rid=giphy.gif&ct=g)" width="1000" height="400"/>
+  <img src="<iframe src="https://giphy.com/embed/2IudUHdI075HL02Pkk" width="480" height="360" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/pudgypenguins-data-code-coding-2IudUHdI075HL02Pkk">via GIPHY</a></p>" width="1000" height="400"/>
 </div>
